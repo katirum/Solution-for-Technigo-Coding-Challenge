@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Fredoka&family=Montez&family=Nunito+Sans&display=swap');
+
+body{
+	background-color: #90AFC5;
+	margin-top: 0;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 0;
+	font-family: 'Fredoka', sans-serif;
+}
+
+#title{
+	color: #336B87;
+	text-align: center;
+	outline-style: double;
+	font-size: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#article{
+	color: #856d4d;
+	margin-top: 5%;
+	text-align: justify;
+	font-size: 19.5px;
+	text-indent: 50px;
+	line-height: 1.8;
+}
+
+#article2{
+	color: #856d4d;
+	text-align: justify;
+	font-size: 19.5px;
+	line-height: 1.8;
+}
+
+#list li{
+	line-height: 2;
+}
+
+#list li a{
+	color: #2A3132;
+}
+
+#list li a:hover{
+	color: #ff4500;
+}
+
+footer{
+	background-color: #336B87;
+	margin-top: 20%;
+	padding: 10px;
+	text-align: center;
+}
